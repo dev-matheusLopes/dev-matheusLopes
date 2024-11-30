@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">Hi there, i'm Matheus 👋</h1>
+## Hi there, i'm Matheus 👋
 
 ### 📌 technologies
 
