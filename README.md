@@ -1,4 +1,4 @@
-## Hi there, i'm Matheus 👋
+# Hi there, i'm Matheus 👋
 
 ### 📌 technologies
 
